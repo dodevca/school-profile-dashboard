@@ -1,0 +1,11 @@
+CRITICAL - 2023-03-10 22:48:46 --> Call to undefined function form_open()
+in APPPATH/Views/layouts/partials/searchbar.php on line 2.
+ 1 APPPATH/Views/layouts/alumni-index.php(21): include_once()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/alumni-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Alumni.php(13): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Alumni->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

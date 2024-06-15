@@ -1,0 +1,32 @@
+ERROR - 2023-03-13 22:58:43 --> mysqli_sql_exception: Table 'project.modul' doesn't exist in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(30): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-13 22:58:43 --> Table 'project.modul' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Controllers/Home.php(30): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-13 23:00:02 --> Undefined array key "visitor"
+in APPPATH/Views/layouts/dashboard.php on line 31.
+ 1 APPPATH/Views/layouts/dashboard.php(31): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/dashboard.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(39): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

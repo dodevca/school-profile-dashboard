@@ -1,0 +1,420 @@
+CRITICAL - 2023-03-02 14:32:51 --> Call to private App\Controllers\Announcement::__construct() from context 'CodeIgniter\CodeIgniter'
+in SYSTEMPATH/CodeIgniter.php on line 889.
+ 1 SYSTEMPATH/CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 2 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 3 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 14:54:44 --> Call to undefined function form_open_multipart()
+in APPPATH/Views/layouts/announcement-add.php on line 26.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Announcement.php(31): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->add()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:06:50 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:12:21 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:13:02 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:13:36 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:27:25 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:31:02 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:31:05 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:31:07 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Announcement.php(54): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:42:18 --> Array to string conversion
+in APPPATH/Views/layouts/announcement-add.php on line 30.
+ 1 APPPATH/Views/layouts/announcement-add.php(30): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/announcement-add.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Announcement.php(33): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->add()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:49:03 --> Undefined variable: data
+in APPPATH/Controllers/Announcement.php on line 96.
+ 1 APPPATH/Controllers/Announcement.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 15:51:27 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH/Controllers/Announcement.php on line 49.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-02 16:05:42 --> Could not move file phpoqAdO2 to ../public/assets/pengumuman/ ()
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 149.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(149): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed()
+ 2 APPPATH/Controllers/Announcement.php(70): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 16:32:10 --> mysqli_sql_exception: Unknown column 'pengumuman_id' in 'field list' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Announcement.php(33): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Announcement->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-02 16:32:10 --> Unknown column 'pengumuman_id' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 APPPATH/Controllers/Announcement.php(33): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 16:42:09 --> date_format() expects parameter 1 to be DateTimeInterface, string given
+in APPPATH/Controllers/Announcement.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Announcement.php(43): date_format()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 16:43:17 --> date_format() expects parameter 1 to be DateTimeInterface, string given
+in APPPATH/Controllers/Announcement.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Announcement.php(43): date_format()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-02 16:46:42 --> mysqli_sql_exception: Duplicate entry '0' for key 'announcements.announcement_id' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Announcement.php(113): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Announcement->create()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-02 16:46:42 --> Duplicate entry '0' for key 'announcements.announcement_id'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Announcement.php(113): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:03:11 --> Undefined index: important
+in APPPATH/Views/layouts/announcement-index.php on line 59.
+ 1 APPPATH/Views/layouts/announcement-index.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/announcement-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Announcement.php(48): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 17:42:42 --> Undefined variable: i
+in APPPATH/Views/layouts/announcement-index.php on line 110.
+ 1 APPPATH/Views/layouts/announcement-index.php(110): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/announcement-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Announcement.php(60): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:03:35 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Announcement.php on line 86.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:03:52 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Announcement.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:04:16 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Announcement.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:05:24 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Announcement.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:05:39 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Announcement.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:05:40 --> Cannot use object of type stdClass as array
+in APPPATH/Controllers/Announcement.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:06:25 --> json_decode() expects parameter 1 to be string, object given
+in APPPATH/Controllers/Announcement.php on line 83.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Announcement.php(83): json_decode()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:06:34 --> json_decode() expects parameter 1 to be string, object given
+in APPPATH/Controllers/Announcement.php on line 83.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Announcement.php(83): json_decode()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:11:05 --> Undefined index: title
+in APPPATH/Views/layouts/announcement-edit.php on line 10.
+ 1 APPPATH/Views/layouts/announcement-edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/announcement-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Announcement.php(93): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:12:02 --> Undefined variable: result
+in APPPATH/Views/layouts/announcement-edit.php on line 37.
+ 1 APPPATH/Views/layouts/announcement-edit.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/announcement-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Announcement.php(93): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:23:42 --> Cannot use object of type stdClass as array
+in APPPATH/Views/layouts/announcement-edit.php on line 10.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Announcement.php(84): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:24:21 --> Undefined variable: row
+in APPPATH/Controllers/Announcement.php on line 85.
+ 1 APPPATH/Controllers/Announcement.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:24:23 --> Undefined variable: row
+in APPPATH/Controllers/Announcement.php on line 85.
+ 1 APPPATH/Controllers/Announcement.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:24:54 --> Cannot use object of type stdClass as array
+in APPPATH/Views/layouts/announcement-edit.php on line 10.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Announcement.php(84): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:25:11 --> json_decode() expects parameter 1 to be string, object given
+in APPPATH/Controllers/Announcement.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Announcement.php(82): json_decode()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:25:13 --> json_decode() expects parameter 1 to be string, object given
+in APPPATH/Controllers/Announcement.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Announcement.php(82): json_decode()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:25:29 --> Illegal string offset 'title'
+in APPPATH/Views/layouts/announcement-edit.php on line 10.
+ 1 APPPATH/Views/layouts/announcement-edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/announcement-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Announcement.php(84): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 18:26:05 --> Cannot use object of type stdClass as array
+in APPPATH/Views/layouts/announcement-edit.php on line 10.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Announcement.php(84): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->edit()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-02 19:03:20 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:03:21 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:04:59 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:05:02 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:06:04 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:06:06 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:07:06 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:11:03 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:15:31 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:19:01 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:33:58 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:34:02 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:34:07 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:34:09 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:34:53 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:34:55 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-03-02 19:34:56 --> The framework needs the following extension(s) installed and loaded: curl, intl, mbstring, xml.
+in SYSTEMPATH/CodeIgniter.php on line 224.
+ 1 SYSTEMPATH/CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH/CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH/index.php(55): CodeIgniter\CodeIgniter->initialize()

@@ -1,0 +1,132 @@
+CRITICAL - 2023-06-12 22:46:29 --> Call to a member function getName() on null
+in APPPATH/Controllers/News.php on line 131.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->create()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-12 22:47:31 --> Undefined array key "views"
+in APPPATH/Controllers/News.php on line 84.
+ 1 APPPATH/Controllers/News.php(84): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-12 22:47:59 --> Undefined array key "views"
+in APPPATH/Views/layouts/news-index.php on line 71.
+ 1 APPPATH/Views/layouts/news-index.php(71): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/news-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/News.php(89): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-12 22:48:01 --> Undefined array key "views"
+in APPPATH/Views/layouts/news-index.php on line 71.
+ 1 APPPATH/Views/layouts/news-index.php(71): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/news-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/News.php(89): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-12 22:50:58 --> Undefined array key "important"
+in APPPATH/Views/layouts/news-index.php on line 72.
+ 1 APPPATH/Views/layouts/news-index.php(72): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/news-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/News.php(90): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-12 22:58:40 --> mysqli_sql_exception: Unknown column 'announcement_id' in 'field list' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/News.php(224): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/twelveio/projects/dashboard/app/Controllers/News.php(120): App\Controllers\News->read()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\News->edit()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#8 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-06-12 22:58:40 --> Unknown column 'announcement_id' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/News.php(224): CodeIgniter\Database\BaseBuilder->getWhere()
+ 6 APPPATH/Controllers/News.php(120): App\Controllers\News->read()
+ 7 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->edit()
+ 8 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-12 22:59:44 --> mysqli_sql_exception: Unknown column 'announcement_id' in 'field list' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/News.php(224): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/twelveio/projects/dashboard/app/Controllers/News.php(120): App\Controllers\News->read()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\News->edit()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#8 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-06-12 22:59:44 --> Unknown column 'announcement_id' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/News.php(224): CodeIgniter\Database\BaseBuilder->getWhere()
+ 6 APPPATH/Controllers/News.php(120): App\Controllers\News->read()
+ 7 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->edit()
+ 8 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-12 23:00:01 --> mysqli_sql_exception: Unknown column 'announcement_id' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/News.php(224): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/twelveio/projects/dashboard/app/Controllers/News.php(120): App\Controllers\News->read()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\News->edit()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#8 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-06-12 23:00:01 --> Unknown column 'announcement_id' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/News.php(224): CodeIgniter\Database\BaseBuilder->getWhere()
+ 6 APPPATH/Controllers/News.php(120): App\Controllers\News->read()
+ 7 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->edit()
+ 8 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-12 23:00:25 --> Undefined array key "attachment"
+in APPPATH/Views/layouts/news-edit.php on line 53.
+ 1 APPPATH/Views/layouts/news-edit.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/news-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/News.php(129): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\News->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

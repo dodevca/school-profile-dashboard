@@ -1,0 +1,11 @@
+CRITICAL - 2023-06-13 00:39:06 --> Undefined array key "events"
+in APPPATH/Views/layouts/dashboard.php on line 47.
+ 1 APPPATH/Views/layouts/dashboard.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/dashboard.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

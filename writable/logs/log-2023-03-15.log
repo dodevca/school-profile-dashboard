@@ -1,0 +1,1114 @@
+CRITICAL - 2023-03-15 00:02:31 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:40 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:41 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:48 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:50 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:50 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:51 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:51 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:51 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:52 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:03:52 --> Cannot access offset of type string on string
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(55): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:08:07 --> view(): Argument #2 ($data) must be of type array, string given, called in /home/twelveio/projects/dashboard/app/Controllers/Auth.php on line 55
+in SYSTEMPATH/Common.php on line 1120.
+ 1 APPPATH/Controllers/Auth.php(55): view()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:13:01 --> Undefined variable $datas
+in APPPATH/Controllers/Auth.php on line 61.
+ 1 APPPATH/Controllers/Auth.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:14:59 --> Cannot use object of type stdClass as array
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(60): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:16:05 --> Cannot use object of type stdClass as array
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(60): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:16:07 --> Cannot use object of type stdClass as array
+in APPPATH/Views/login.php on line 61.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Auth.php(60): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:17:41 --> Trying to access array offset on value of type null
+in APPPATH/Views/login.php on line 61.
+ 1 APPPATH/Views/login.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Auth.php(60): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:20:49 --> Trying to access array offset on value of type null
+in APPPATH/Views/login.php on line 61.
+ 1 APPPATH/Views/login.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Auth.php(61): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:21:23 --> Trying to access array offset on value of type null
+in APPPATH/Views/login.php on line 61.
+ 1 APPPATH/Views/login.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Auth.php(61): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:21:24 --> Trying to access array offset on value of type null
+in APPPATH/Views/login.php on line 61.
+ 1 APPPATH/Views/login.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Auth.php(61): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:21:24 --> Trying to access array offset on value of type null
+in APPPATH/Views/login.php on line 61.
+ 1 APPPATH/Views/login.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Auth.php(61): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 00:21:25 --> Trying to access array offset on value of type null
+in APPPATH/Views/login.php on line 61.
+ 1 APPPATH/Views/login.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/login.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Auth.php(61): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Auth->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:41:17 --> CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, array given, called in /home/twelveio/projects/dashboard/app/Controllers/Search.php on line 71
+in SYSTEMPATH/Database/BaseBuilder.php on line 1577.
+ 1 APPPATH/Controllers/Search.php(71): CodeIgniter\Database\BaseBuilder->get()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 01:42:38 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = 'hijau daun'
+ORDER BY `date` DESC' at line 3 in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Search->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 01:42:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = 'hijau daun'
+ORDER BY `date` DESC' at line 3
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 01:42:40 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = 'hijau daun'
+ORDER BY `date` DESC' at line 3 in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Search->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 01:42:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = 'hijau daun'
+ORDER BY `date` DESC' at line 3
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 01:44:09 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = 'hijau daun'
+ORDER BY `date` DESC' at line 3 in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Search->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 01:44:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* = 'hijau daun'
+ORDER BY `date` DESC' at line 3
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 01:47:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* LIKE '%hijau daun%' ESCAPE '!'
+ORDER BY `date` DESC' at line 3 in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Search->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 01:47:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* LIKE '%hijau daun%' ESCAPE '!'
+ORDER BY `date` DESC' at line 3
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Search.php(72): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:48:32 --> Undefined array key "album_id"
+in APPPATH/Controllers/Search.php on line 81.
+ 1 APPPATH/Controllers/Search.php(81): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:51:05 --> Only variables should be passed by reference
+in APPPATH/Controllers/Search.php on line 77.
+ 1 APPPATH/Controllers/Search.php(77): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:51:06 --> Only variables should be passed by reference
+in APPPATH/Controllers/Search.php on line 77.
+ 1 APPPATH/Controllers/Search.php(77): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:51:07 --> Only variables should be passed by reference
+in APPPATH/Controllers/Search.php on line 77.
+ 1 APPPATH/Controllers/Search.php(77): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:51:13 --> Only variables should be passed by reference
+in APPPATH/Controllers/Search.php on line 77.
+ 1 APPPATH/Controllers/Search.php(77): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:51:14 --> Only variables should be passed by reference
+in APPPATH/Controllers/Search.php on line 77.
+ 1 APPPATH/Controllers/Search.php(77): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:54:32 --> Invalid file: layouts/setting.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Setting.php(12): view()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Setting->index()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 01:58:29 --> Invalid file: layouts/alumni-edit.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Alumni.php(80): view()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Alumni->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 02:10:10 --> mysqli_sql_exception: Unknown column 'description' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Search.php(105): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Search->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 02:10:10 --> Unknown column 'description' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Search.php(105): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Search->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 02:37:47 --> mysqli_sql_exception: Unknown column 'announcement' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Announcement.php(67): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Announcement->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 02:37:47 --> Unknown column 'announcement' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Announcement.php(67): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 02:38:12 --> mysqli_sql_exception: Unknown column 'announcement' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Announcement.php(67): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Announcement->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 02:38:12 --> Unknown column 'announcement' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Announcement.php(67): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 02:48:03 --> mysqli_sql_exception: Unknown column 'title' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Event.php(75): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Event->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-15 02:48:03 --> Unknown column 'title' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Event.php(75): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Event->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:40:34 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Profile.php(37): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Profile->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Profile.php(37): CodeIgniter\Database\BaseBuilder->getWhere()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Profile->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-15 03:40:34 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Controllers/Profile.php(37): CodeIgniter\Database\BaseBuilder->getWhere()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Profile->index()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:40:50 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Profile.php(37): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Profile->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Profile.php(37): CodeIgniter\Database\BaseBuilder->getWhere()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Profile->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-15 03:40:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Controllers/Profile.php(37): CodeIgniter\Database\BaseBuilder->getWhere()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Profile->index()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:40:57 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Announcement.php(68): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Announcement->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Announcement.php(68): CodeIgniter\Database\BaseBuilder->get()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Announcement->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-03-15 03:40:57 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Controllers/Announcement.php(68): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->index()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:40:59 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:40:59 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:23 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:44 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:44 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:44 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:44 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:44 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:44 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:45 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:45 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:45 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:45 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:52 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:52 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:52 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:41:52 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:41:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:45:50 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:45:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 03:45:50 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home/twelveio/projects/dashboard/app/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+#3 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Home->index()
+#4 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-15 03:45:50 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(561): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH/Controllers/Home.php(34): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Home->index()
+ 4 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 21:44:26 --> Call to undefined function form_open()
+in APPPATH/Views/layouts/profile-index.php on line 50.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Profile.php(45): view()
+ 5 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Profile->index()
+ 6 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 21:44:54 --> Undefined variable $result
+in APPPATH/Views/layouts/profile-index.php on line 65.
+ 1 APPPATH/Views/layouts/profile-index.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/profile-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Profile.php(46): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Profile->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 21:44:55 --> Undefined variable $result
+in APPPATH/Views/layouts/profile-index.php on line 65.
+ 1 APPPATH/Views/layouts/profile-index.php(65): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/profile-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Profile.php(46): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Profile->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-15 22:57:41 --> Undefined variable $currentPage
+in APPPATH/Views/maintenance.php on line 6.
+ 1 APPPATH/Views/maintenance.php(6): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/maintenance.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Maintenance.php(11): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Maintenance->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-15 23:35:31 --> mysqli_sql_exception: Unknown column 'events_id' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(2391): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Models/DataModel.php(27): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/twelveio/projects/dashboard/app/Controllers/Event.php(269): App\Models\DataModel->deleteRow()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Event->delete()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#8 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-15 23:35:31 --> Unknown column 'events_id' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2391): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Models/DataModel.php(27): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH/Controllers/Event.php(269): App\Models\DataModel->deleteRow()
+ 7 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Event->delete()
+ 8 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

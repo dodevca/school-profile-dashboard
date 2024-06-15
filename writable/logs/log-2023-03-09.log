@@ -1,0 +1,389 @@
+ERROR - 2023-03-09 16:35:58 --> mysqli_sql_exception: Unknown column 'achievement_id' in 'field list' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Achievement.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Achievement->index()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-09 16:35:58 --> Unknown column 'achievement_id' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Achievement.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 16:36:25 --> Undefined array key "result"
+in APPPATH/Views/layouts/achievement-index.php on line 49.
+ 1 APPPATH/Views/layouts/achievement-index.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/achievement-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Achievement.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 17:05:51 --> Call to undefined function form_open()
+in APPPATH/Views/layouts/partials/searchbar.php on line 2.
+ 1 APPPATH/Views/layouts/alumni-index.php(21): include_once()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/alumni-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Alumni.php(13): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Alumni->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 17:12:44 --> Call to undefined function form_open()
+in APPPATH/Views/layouts/partials/searchbar.php on line 2.
+ 1 APPPATH/Views/layouts/alumni-index.php(21): include_once()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/alumni-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Alumni.php(13): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Alumni->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 17:12:47 --> Call to undefined function form_open()
+in APPPATH/Views/layouts/partials/searchbar.php on line 2.
+ 1 APPPATH/Views/layouts/alumni-index.php(21): include_once()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/alumni-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Alumni.php(13): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Alumni->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 17:14:18 --> mysqli_sql_exception: Unknown column 'images' in 'field list' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Achievement.php(123): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Achievement->create()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-09 17:14:18 --> Unknown column 'images' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Achievement.php(123): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 17:15:06 --> Undefined array key "major"
+in APPPATH/Views/layouts/achievement-index.php on line 53.
+ 1 APPPATH/Views/layouts/achievement-index.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/achievement-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Achievement.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 17:15:08 --> Undefined array key "major"
+in APPPATH/Views/layouts/achievement-index.php on line 53.
+ 1 APPPATH/Views/layouts/achievement-index.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/achievement-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Achievement.php(52): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 17:30:00 --> Undefined variable $data
+in APPPATH/Views/layouts/achievement-edit.php on line 10.
+ 1 APPPATH/Views/layouts/achievement-edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/achievement-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Achievement.php(71): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 17:32:33 --> mysqli_sql_exception: Unknown column 'album_id' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Achievement.php(161): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/twelveio/projects/dashboard/app/Controllers/Achievement.php(74): App\Controllers\Achievement->read()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Achievement->edit()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#8 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-09 17:32:33 --> Unknown column 'album_id' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Achievement.php(161): CodeIgniter\Database\BaseBuilder->getWhere()
+ 6 APPPATH/Controllers/Achievement.php(74): App\Controllers\Achievement->read()
+ 7 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->edit()
+ 8 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:19:26 --> Call to a member function getRandomName() on null
+in APPPATH/Controllers/Announcement.php on line 155.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Announcement->create()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 18:22:46 --> mysqli_sql_exception: Duplicate entry '2147483647' for key 'achievements.achievement_id' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Achievement.php(177): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Achievement->create()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-09 18:22:46 --> Duplicate entry '2147483647' for key 'achievements.achievement_id'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1916): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Achievement.php(177): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:25:19 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(83): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:25:23 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(83): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:26:22 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(83): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:31:00 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(278): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:31:43 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(278): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-09 18:35:12 --> mysqli_sql_exception: Unknown column 'announcement_id' in 'where clause' in /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php:292
+Stack trace:
+#0 /home/twelveio/projects/dashboard/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/twelveio/projects/dashboard/system/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/twelveio/projects/dashboard/system/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+#4 /home/twelveio/projects/dashboard/app/Controllers/Achievement.php(258): CodeIgniter\Database\BaseBuilder->update()
+#5 /home/twelveio/projects/dashboard/system/CodeIgniter.php(927): App\Controllers\Achievement->update()
+#6 /home/twelveio/projects/dashboard/system/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+#7 /home/twelveio/projects/dashboard/system/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/twelveio/projects/dashboard/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-03-09 18:35:12 --> Unknown column 'announcement_id' in 'where clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2079): CodeIgniter\Database\BaseConnection->query()
+ 5 APPPATH/Controllers/Achievement.php(258): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:42:04 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(280): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:42:43 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(280): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:44:06 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(280): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:44:09 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(280): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:45:38 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(280): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:45:51 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(280): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:58:11 --> Undefined array key 0
+in APPPATH/Controllers/Achievement.php on line 191.
+ 1 APPPATH/Controllers/Achievement.php(191): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 18:58:26 --> Call to a member function getName() on array
+in APPPATH/Controllers/Achievement.php on line 191.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:02:24 --> Undefined array key 0
+in APPPATH/Controllers/Achievement.php on line 191.
+ 1 APPPATH/Controllers/Achievement.php(191): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:02:31 --> Undefined array key 0
+in APPPATH/Controllers/Achievement.php on line 191.
+ 1 APPPATH/Controllers/Achievement.php(191): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:32:10 --> Call to a member function isValid() on array
+in APPPATH/Controllers/Achievement.php on line 117.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->create()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:38:39 --> syntax error, unexpected token ")"
+in APPPATH/Controllers/Achievement.php on line 117.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:48:08 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Achievement.php on line 315.
+ 1 APPPATH/Controllers/Achievement.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:49:04 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Achievement.php on line 315.
+ 1 APPPATH/Controllers/Achievement.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:49:45 --> Undefined variable $tempDatas
+in APPPATH/Controllers/Achievement.php on line 315.
+ 1 APPPATH/Controllers/Achievement.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:49:55 --> Trying to access array offset on value of type null
+in APPPATH/Controllers/Achievement.php on line 315.
+ 1 APPPATH/Controllers/Achievement.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:51:10 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Achievement.php(278): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Achievement->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-09 19:53:24 --> Call to undefined function form_open()
+in APPPATH/Views/layouts/partials/searchbar.php on line 2.
+ 1 APPPATH/Views/layouts/alumni-index.php(21): include_once()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/alumni-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Alumni.php(13): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Alumni->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,372 @@
+CRITICAL - 2023-03-07 00:19:44 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(136): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->upload()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:20:05 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(136): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->upload()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:20:46 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(136): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->upload()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:20:48 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(136): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->upload()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:21:53 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(136): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->upload()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:22:49 --> array_push(): Argument #1 ($array) must be of type array, string given
+in APPPATH/Controllers/Gallery.php on line 145.
+ 1 APPPATH/Controllers/Gallery.php(145): array_push()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->upload()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:52:49 --> array_unshift(): Argument #1 ($array) must be of type array, string given
+in APPPATH/Controllers/Gallery.php on line 274.
+ 1 APPPATH/Controllers/Gallery.php(274): array_unshift()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:53:17 --> count(): Argument #1 ($value) must be of type Countable|array, int given
+in APPPATH/Controllers/Gallery.php on line 73.
+ 1 APPPATH/Controllers/Gallery.php(73): count()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:53:54 --> count(): Argument #1 ($value) must be of type Countable|array, int given
+in APPPATH/Controllers/Gallery.php on line 73.
+ 1 APPPATH/Controllers/Gallery.php(73): count()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:53:56 --> foreach() argument must be of type array|object, int given
+in APPPATH/Views/layouts/gallery-edit.php on line 105.
+ 1 APPPATH/Views/layouts/gallery-edit.php(105): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/gallery-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Gallery.php(115): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:53:58 --> count(): Argument #1 ($value) must be of type Countable|array, int given
+in APPPATH/Controllers/Gallery.php on line 73.
+ 1 APPPATH/Controllers/Gallery.php(73): count()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:53:59 --> foreach() argument must be of type array|object, int given
+in APPPATH/Views/layouts/gallery-edit.php on line 105.
+ 1 APPPATH/Views/layouts/gallery-edit.php(105): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/gallery-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Gallery.php(115): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:53:59 --> foreach() argument must be of type array|object, int given
+in APPPATH/Views/layouts/gallery-edit.php on line 105.
+ 1 APPPATH/Views/layouts/gallery-edit.php(105): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/gallery-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Gallery.php(115): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:54:01 --> count(): Argument #1 ($value) must be of type Countable|array, int given
+in APPPATH/Controllers/Gallery.php on line 73.
+ 1 APPPATH/Controllers/Gallery.php(73): count()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:54:04 --> foreach() argument must be of type array|object, int given
+in APPPATH/Views/layouts/gallery-edit.php on line 105.
+ 1 APPPATH/Views/layouts/gallery-edit.php(105): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/gallery-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Gallery.php(115): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:54:50 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(105): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 00:58:58 --> array_unshift(): Argument #1 ($array) must be of type array, null given
+in APPPATH/Controllers/Gallery.php on line 275.
+ 1 APPPATH/Controllers/Gallery.php(275): array_unshift()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:01:45 --> count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+in APPPATH/Controllers/Gallery.php on line 73.
+ 1 APPPATH/Controllers/Gallery.php(73): count()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:04:07 --> count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+in APPPATH/Controllers/Gallery.php on line 73.
+ 1 APPPATH/Controllers/Gallery.php(73): count()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->index()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:04:13 --> array_unshift(): Argument #1 ($array) must be of type array, stdClass given
+in APPPATH/Controllers/Gallery.php on line 275.
+ 1 APPPATH/Controllers/Gallery.php(275): array_unshift()
+ 2 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->update()
+ 3 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:05:16 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(271): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:05:18 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(271): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->update()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:05:19 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(105): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:05:20 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(105): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 01:05:23 --> Undefined constant "CodeIgniter\Debug\VENDORPATH"
+in SYSTEMPATH/Debug/Exceptions.php on line 177.
+ 1 SYSTEMPATH/Debug/Exceptions.php(157): CodeIgniter\Debug\Exceptions->isFakerDeprecationError()
+ 2 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 3 APPPATH/Controllers/Gallery.php(105): json_decode()
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Gallery->edit()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 13:46:24 --> Undefined array key "search"
+in APPPATH/Views/layouts/partials/searchbar.php on line 2.
+ 1 APPPATH/Views/layouts/partials/searchbar.php(2): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Views/layouts/gallery-index.php(33): include_once('APPPATH/Views/layouts/partials/searchbar.php')
+ 3 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/gallery-index.php')
+ 4 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 6 APPPATH/Controllers/Modul.php(50): view()
+ 7 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->index()
+ 8 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 13:53:43 --> Undefined array key "modul_id"
+in APPPATH/Views/layouts/modul-index.php on line 58.
+ 1 APPPATH/Views/layouts/modul-index.php(58): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Modul.php(50): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:09:55 --> Undefined array key "modul"
+in APPPATH/Views/layouts/modul-index.php on line 58.
+ 1 APPPATH/Views/layouts/modul-index.php(58): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-index.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Modul.php(54): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->index()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:12:17 --> Undefined variable $data
+in APPPATH/Views/layouts/partials/pagination.php on line 1.
+ 1 APPPATH/Views/layouts/partials/pagination.php(1): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/partials/pagination.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(431): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/layouts/modul-add.php(77): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-add.php')
+ 7 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/Modul.php(64): view()
+10 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->add()
+11 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:12:23 --> Undefined variable $data
+in APPPATH/Views/layouts/partials/pagination.php on line 1.
+ 1 APPPATH/Views/layouts/partials/pagination.php(1): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/partials/pagination.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(431): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/layouts/modul-add.php(77): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-add.php')
+ 7 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/Modul.php(64): view()
+10 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->add()
+11 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:13:53 --> syntax error, unexpected single-quoted string "results", expecting "]"
+in APPPATH/Controllers/Modul.php on line 32.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:13:57 --> Undefined variable $data
+in APPPATH/Views/layouts/partials/pagination.php on line 1.
+ 1 APPPATH/Views/layouts/partials/pagination.php(1): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/partials/pagination.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(431): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/layouts/modul-add.php(77): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-add.php')
+ 7 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/Modul.php(65): view()
+10 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->add()
+11 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:14:01 --> Undefined variable $data
+in APPPATH/Views/layouts/partials/pagination.php on line 1.
+ 1 APPPATH/Views/layouts/partials/pagination.php(1): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/partials/pagination.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/View/View.php(431): CodeIgniter\View\View->render()
+ 5 APPPATH/Views/layouts/modul-add.php(77): CodeIgniter\View\View->include()
+ 6 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-add.php')
+ 7 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 9 APPPATH/Controllers/Modul.php(65): view()
+10 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->add()
+11 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:19:46 --> Undefined variable $data
+in APPPATH/Views/layouts/modul-edit.php on line 10.
+ 1 APPPATH/Views/layouts/modul-edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Modul.php(74): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:20:17 --> Undefined variable $data
+in APPPATH/Views/layouts/modul-edit.php on line 10.
+ 1 APPPATH/Views/layouts/modul-edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Modul.php(74): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:25:59 --> Too few arguments to function App\Controllers\Modul::edit(), 0 passed in /home/twelveio/projects/dashboard/system/CodeIgniter.php on line 927 and exactly 1 expected
+in APPPATH/Controllers/Modul.php on line 68.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:26:30 --> Too few arguments to function App\Controllers\Modul::edit(), 0 passed in /home/twelveio/projects/dashboard/system/CodeIgniter.php on line 927 and exactly 1 expected
+in APPPATH/Controllers/Modul.php on line 68.
+ 1 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->edit()
+ 2 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:32:55 --> Undefined array key "title"
+in APPPATH/Views/layouts/modul-edit.php on line 10.
+ 1 APPPATH/Views/layouts/modul-edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Modul.php(89): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 14:33:17 --> Undefined variable $result
+in APPPATH/Views/layouts/modul-edit.php on line 67.
+ 1 APPPATH/Views/layouts/modul-edit.php(67): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/layouts/modul-edit.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Modul.php(89): view()
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Modul->edit()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
